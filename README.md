@@ -2,6 +2,11 @@
 
 Welcome to the Event Streaming Series! It's a great opportunity to learn advanced messaging and event streaming patterns with DataStax Developers team! 
 
+## Speakers
+
+- [Zeke Dean](https://www.linkedin.com/in/zekedean/)
+- [Aleks Volochnev](https://www.linkedin.com/in/aleks-volochnev/)
+
 ## Content
 
 - [Episode I](./week-1)
